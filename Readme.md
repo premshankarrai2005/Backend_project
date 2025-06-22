@@ -1,0 +1,1 @@
+"dev": "nodemon -r dotenv/config --experimental-json-modules src/index.js" -package.json time 5:20 hours chai  
